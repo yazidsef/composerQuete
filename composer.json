@@ -1,0 +1,14 @@
+{
+    "name": "yazid-carproys/composer-quete",
+    "description": "nothing to describe this is only a test",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "yazid sefsaf",
+        "email": "yazidsefsaf45@yahoo.com"
+    }],
+    "require": {}
+}
